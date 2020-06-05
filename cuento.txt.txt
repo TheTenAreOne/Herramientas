@@ -1,4 +1,4 @@
-Erase una vez un Señor Conejo, este se dedicaba a la zapateria.
+Erase una vez un Señor Conejo, este se dedicaba a la zapateria, llamado Pedro.
 El Señor conejo tenia un hijo llamado El Hijo del Señor Conejo.
 Ambos trabajaban en la zapateria de la familia conejo, aquí realizaban
 muchos muchos zapatos al día y personas de todas las regiones
@@ -16,4 +16,5 @@ la milica y aprendio lo comodo que era vivir con su padre y su familia
 trabajando en la zapateria.
 Cuando acabo de prestar servicio este valoro hacer zapatos cada día junto
 al Señor Conejo.
+
 
